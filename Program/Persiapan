@@ -1,0 +1,8 @@
+1. Tambahkan library ESP (addon) di Arduino IDE:
+https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/installing-the-esp8266-arduino-addon
+
+2. Download library mp3 player, cari di google:
+DFPlayer_Mini_Mp3.h
+
+
+
